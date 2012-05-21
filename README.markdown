@@ -35,7 +35,7 @@ NSTimeInterval maxReportAge = 60.0 * 60;
 
 ## Convenience Conversion Functions
 
-```
+```c
 float mph = MPH_FROM_KN(knots);
 float kmh = KMH_FROM_KN(knots);
 float knots = KN_FROM_MPH(mph);
