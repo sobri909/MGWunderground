@@ -6,6 +6,11 @@ Reports are returned in a wrapper object giving easy access to some common field
 
 The report class defines convenience functions for converting between knots, mph, km/h, Celsius, and Fahrenheit.
 
+## Setup
+
+1. Add the two classes to your project
+2. Edit `API_KEY` in `Wunderground.h` to match your Wunderground API key
+
 ## Fetch a report
 
 ```objc
